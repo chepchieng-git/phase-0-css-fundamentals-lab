@@ -3,3 +3,43 @@ body {
   height: 100%;
   margin: 0;
 }
+h1 {
+  color: red;
+}
+img {
+  text-align: center;
+}
+
+header {
+  margin: auto;
+  text-align: center;
+}
+#featured-property{
+  text-align: center;
+  margin: auto;
+}
+#featured-property p {
+  
+  width: 800px;
+  text-align: center;
+  margin: auto;
+}
+
+.img {
+  width: 100%;
+  text-align: center;
+}
+
+#details {
+  display: flex;
+  text-align: center;  
+  justify-content: space-between;
+ background-color: red;
+ padding-left: 50px;
+ padding-right: 50px;
+}
+
+
+
+
+
